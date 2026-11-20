@@ -1,3 +1,3 @@
 # 2nd version
-Hello jenkins
-MMKS
+echo "Hello jenkins"
+
