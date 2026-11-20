@@ -1,3 +1,3 @@
 # 2nd version
-echo "Hello jenkins"
+echo "Hello Jenkins"
 
